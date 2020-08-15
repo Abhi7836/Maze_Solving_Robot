@@ -11,4 +11,5 @@ Parts
 
 ![line_follower](https://user-images.githubusercontent.com/39412350/66274201-b07af800-e899-11e9-8860-e80ee69c036d.jpeg)
 
-![WhatsApp Image 2020-08-15 at 21 47 09](https://user-images.githubusercontent.com/39412350/90316770-203e2280-df42-11ea-99a6-7b0b32620437.jpeg)
+![WhatsApp Image 2020-08-15 at 21 47 09](https://user-images.githubusercontent.com/39412350/90316801-57143880-df42-11ea-875f-63e750757366.jpeg)
+
