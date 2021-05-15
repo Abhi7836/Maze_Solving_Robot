@@ -1,6 +1,6 @@
 # Maze_Solving_Robot
 
-This is to make a Fast Maze Solving Robot for line follower competations
+This is to make a Fast Maze Solving Robot for line follower competitions
 
 ![line_follower_robor](https://user-images.githubusercontent.com/39412350/66274199-aeb13480-e899-11e9-8eeb-50b31930a846.jpeg)
 
